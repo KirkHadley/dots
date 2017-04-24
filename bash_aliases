@@ -1,0 +1,11 @@
+alias vim="/usr/local/Cellar/vim/7.4.1941/bin/vim"
+alias vi="/usr/local/Cellar/vim/7.4.1941/bin/vim"
+alias arc="slc arc"
+alias tma="tmux attach-session -t"
+alias tmrn="tmux new -s"
+alias tml="tmux list-sessions"
+alias tmk="tmux kill-session -t"
+alias cd..="cd .."
+alias chs="docker run -it --rm -v /var/run/docker.sock:/var/run/docker.sock -v /Users/khadley/Downloads/:/data eclipse/che start"
+alias rethinkdb.start='launchctl load /usr/local/opt/rethinkdb/homebrew.mxcl.rethinkdb.plist'
+alias rethinkdb.stop='launchctl unload /usr/local/opt/rethinkdb/homebrew.mxcl.rethinkdb.plist'
