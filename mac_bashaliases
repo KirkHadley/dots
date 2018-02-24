@@ -1,0 +1,12 @@
+alias c="cd ~"
+alias cd..="cd .."
+alias vi="/usr/local/Cellar/vim/8.0.1200/bin/vim"
+alias ls='LSCOLORS=gxfxcxdxbxexexabagacad /bin/ls -bFHGLOPW'
+#alias ls="ls -G"
+#alias l="ls"
+alias s="ssh kirk@usve77726.serverprofi24.com"
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -GFh'
+alias vim='/usr/local/Cellar/vim/8.0.1200/bin/vim'
+alias cb='ssh developer@172.31.19.21'
